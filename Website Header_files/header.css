@@ -1,0 +1,23 @@
+.header{
+    margin-top: 0;
+    padding-top:  0;
+    background-color: rgb(210, 68, 68);
+    position: relative;
+
+
+}
+
+ul{ 
+    list-style: none;
+    color: rgb(208, 203, 137);
+    font-size:20px;
+    display:flex;
+    gap: 50px;
+    align-items:center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+b{
+    color: rgb(66, 233, 248);
+    font-size: 50px;
+    background-size: cover;
+}
